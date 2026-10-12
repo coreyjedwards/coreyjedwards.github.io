@@ -11,6 +11,7 @@ I am currently studying geography at RCC and plan on transfering to a 4 year to 
 ---
 --7--
 ## The 2018 Kilauea eruption StoryMap
+<video src="https://github.io" controls width="100%"></video>
 
 *Interactive version, live as of September 2026: (https://storymaps.arcgis.com/stories/9cbce01880b6409485f781d11fa9700c)*
 **Question:** How did the 2018 Kīlauea volcanic eruption physically change the coastline and land area of the affected region over time
