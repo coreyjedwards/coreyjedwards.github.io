@@ -11,8 +11,7 @@ I am currently studying geography at RCC and plan on transfering to a 4 year to 
 ---
 --7--
 ## The 2018 Kilauea eruption StoryMap
-<video src="https://github.io" controls width="100%"></video>
-
+![This map shows the different phases of the eruption, plus how the lava looked and affected the surrounding area](images/kilauea_eruption.png)
 *Interactive version, live as of September 2026: (https://storymaps.arcgis.com/stories/9cbce01880b6409485f781d11fa9700c)*
 **Question:** How did the 2018 Kīlauea volcanic eruption physically change the coastline and land area of the affected region over time
 **Data:** The dataset name is Kilauea 2018 Lava Flow Extents, was published by U.S. Geological Survey in 2019, Kilauea 2018 Lava Flow Extents courtesy of ESRI: Learn ArcGIS
